@@ -1,5 +1,5 @@
 # Kinect vs. Vicon
 
-## Kinect data of laterolateral trunk movement, perfomed by a volunteer while playing a serius game
+## Kinect data of laterolateral trunk movement, perfomed by a volunteer while playing a serious game
 
 <i>by KOBYLARZ, J in partnership with PUCPR</i>
