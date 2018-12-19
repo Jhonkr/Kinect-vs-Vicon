@@ -2,4 +2,4 @@
 
 ## Kinect data of laterolateral trunk movement, perfomed by a volunteer while playing a serius game
 
-<i>in partnership with PUCPR</i>
+<i>by KOBYLARZ, J in partnership with PUCPR</i>
